@@ -11,13 +11,13 @@
     tools:context="id.sch.smktelkom_mlg.learn.intent1.MainActivity">
 
     <TextView
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Hello World!" />
 
     <Button
         android:id="@+id/buttonHitung"
-        android:layout_width="349dp"
+        android:layout_width="352dp"
         android:layout_height="wrap_content"
         android:text="Hitung" />
 
